@@ -1,0 +1,159 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Open+Sans:wght@400;700;800&display=swap');
+
+  *{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+
+}
+
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 75px;
+}
+
+
+.content{
+    width: 100%;
+    height: 100%;
+    position: absolute ;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+
+}
+.content h2{
+    font-size: 35px;
+    color: #FFF;
+   
+}
+.content p{
+    color: #FFF;
+    text-align: center;
+    font-size: 72px;
+    width: 632px;
+    height: 190px;
+    
+}
+#text{
+    font-size: 88px;
+    width: 383px;
+    font-weight: Bold;
+    color:#FF0000;
+    margin-bottom: -30px;
+    }
+.item{
+    text-align: center;
+    color: #FF0000;
+    font-size: 24px;
+    margin-top: 75px;
+    margin-bottom: -50px;
+    
+}
+
+.item-1 {
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+}
+   
+   
+.new-year{  
+        display: flex;
+        width: 1320px;
+        margin: auto;
+        background: -webkit-linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+        background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../images/Vectorrr.png'); 
+        align-items: center; 
+        margin-top: 70px;
+        margin-bottom: 100px;
+        
+       
+       
+    } 
+  
+.new-year h1{
+    margin-left: 126px;
+    margin-bottom: 36px;
+    font-size: 64px;
+    width: 642px;
+    max-width: 525px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.new-year p{
+    margin-left: 126px;
+    left: 0px;
+    top: 0px;
+    font-size: 18px;
+    width: 697px;
+    font-family: "Inter";
+    color: rgba(255, 255, 255, 1);
+}
+.new-year button{
+    margin-left: 158px;
+    margin-top: 48px;
+    font-size: 20px;
+    font-family: inter;
+    font-weight: bold;
+
+}
+.new-year .banner-img img{
+    width: 100%;
+    vertical-align:text-bottom ;
+    margin-bottom: 67px;
+    margin-top: 58px;
+    
+}
+
+.section{ 
+    padding-top: 100px;
+    width: 100%;
+    height: 482px;
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);;
+   
+}
+.section .bold p{ 
+      text-align: center;
+      font-size: 32px;
+      font-weight: 600;
+      line-height: 56px;
+       
+    
+}
+
+.text-primary{
+      color: #F00;
+    }
+
+.switch{
+    font-size: 20px;
+    display: inline-flex;
+    padding: 16px 32px;
+    gap: 16px;
+    background-color: #F00;
+    border-radius: 8px;
+}
+
+
+ 
+
+
+
+
+
+
+
+
+
+
